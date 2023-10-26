@@ -15,24 +15,18 @@ public class Ejemplo03 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // Tipos de dato en Java
+        // Para crear un comentario de una linae debo darle doble //
         
         // Tipos de dato en Java
 
-        // Tipo de datos Entero
+        // EJEMPLO GG
         
         /*
-        q
-        q
-        q
-        q
-        q
-        q
-        q
-        q
-        q
-        q
+       Para crear un comentario de varias lineas debo darle un /* y al 
+        terminar colocar * / 
+        
         */
+                
         int variable1;
         int variable2 = 10;
         int valorInicial = 18;
